@@ -2,7 +2,7 @@
 
 numero = int(input("digite seu numero: "))
 if numero  % 2 == 0:
-    print("par")
+    print("seu número é par!")
 else:
-    print("impar")
+    print("seu número é impar!")
 
